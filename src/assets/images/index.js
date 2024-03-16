@@ -1,0 +1,26 @@
+const AppImages = {
+  logo: require('./tiny_logo.png'),
+  splash_screen: require('./splash_screeen.png'),
+  bali: require('./bali.jpg'),
+  bali_water_hotel: require('./bali_water_hotel.jpg'),
+  bali_trip: require('./bali_trip.jpg'),
+  baliMountain: require('./balimountain.jpg'),
+  baliCycling: require('./cyclingbali.jpg'),
+  profile_image: require('./profile-image.jpg'),
+  app_logo: require('./worldtour-logo.png'),
+  taj_mahal: require('./taj-mahal.jpg'),
+  sikkim_india: require('./sikkim_india.jpg'),
+  paris: require('./paris.jpg'),
+  faisal_mosque_islamabad: require('./faisal_mosque_islamabad.jpg'),
+  china: require('./china.jpg'),
+  lake_como: require('./lake_como.jpg'),
+  profile_1: require('./dummy_profile_images/profile_1.jpg'),
+  profile_2: require('./dummy_profile_images/profile_2.jpg'),
+  profile_3: require('./dummy_profile_images/profile_3.jpg'),
+  profile_4: require('./dummy_profile_images/profile_4.jpg'),
+  profile_5: require('./dummy_profile_images/profile_5.jpg'),
+  profile_6: require('./dummy_profile_images/profile_6.jpg'),
+  profile_7: require('./dummy_profile_images/profile_7.jpg'),
+};
+
+export default AppImages;
